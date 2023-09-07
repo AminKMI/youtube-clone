@@ -1,0 +1,310 @@
+.filimo-button{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 183, 0);
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.filimo-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.filimo-button:hover{
+  opacity: 0.8;
+}
+.filimo-button:active{
+  opacity:0.5
+}
+.digikala-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 73, 73);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.digikala-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+.digikala-button:hover{
+  opacity: 0.8;
+
+}
+.digikala-button:active{
+  opacity:0.5
+}
+.telewebion-button{
+  font-family:iranyekan;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.telewebion-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size:25px ;
+}
+.telewebion-button:hover{
+  opacity: 0.8;
+}
+.telewebion-button:active{
+  opacity: 0.5;
+}
+
+.aparat-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(255, 22, 170);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.aparat-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.aparat-button:hover{
+  opacity: 0.8;
+}
+.aparat-button:active{
+  opacity:0.5
+}
+.fotmob-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(0, 155, 39);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.fotmob-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.fotmob-button:hover{
+  opacity: 0.8;
+}
+.fotmob-button:active{
+  opacity:0.5
+}
+.nobitex-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(153, 0, 255);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.nobitex-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.nobitex-button:hover{
+  opacity: 0.8;
+}
+.nobitex-button:active{
+  opacity:0.5
+}
+.trex-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(0, 180, 0);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.trex-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.trex-button:hover{
+  opacity: 0.8;
+}
+.trex-button:active{
+  opacity:0.5
+}
+.details-filimo{
+  font-family: iranyekan;
+  width: 500px;
+}
+.digikala-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.telewebion-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.aparat-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.fotmob-details{
+  font-family: iranyekan;
+  width:500px
+}
+.nobitex-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.trex-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.PLF-button{
+  font-family: ARIAL;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(53, 31, 120);
+  color: white;
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.PLF-link{
+  color: white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+
+.PLF-button:hover{
+  opacity: 0.8;
+}
+.PLF-button:active{
+  opacity:0.5
+}
+.PLF-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.steam-button{
+  font-family: iranyekan;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  cursor: pointer;
+  background-color: darkblue;
+  transition: 0.15s;
+}
+.steam-link{
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+.steam-button:hover{
+  opacity: 0.8;
+}
+.steam-button:active{
+  opacity: 0.5;
+}
+.steam-details{
+  font-family: iranyekan;
+  width: 500px;
+}
+.spotify-button{
+  font-family: iranyekan;
+  background-color: rgb(33, 248, 33);
+  color:black;
+  transition: 0.15s;
+  cursor: pointer;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  text-decoration: none;
+}
+.spotify-link{
+  font-size: 25px;
+  text-decoration: none;
+  color: black;
+}
+.spotify-details{
+  font-family: iranyekan;
+  width: 500px;
+
+}
+.spotify-button:hover{
+  opacity: 0.8;
+}
+.spotify-button:active{
+  opacity: 0.5;
+}
+.youtube-button{
+  background-color: red;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 7px;
+  transition: 0.15s;
+}
+.youtube-link{
+  color:white;
+  text-decoration: none;
+  font-family: iranyekan;
+  font-size: 25px;
+}
+.youtube-button:hover{
+  opacity: 0.8;
+}
+.youtube-button:active{
+  opacity: 0.5;
+}
+.youtube-details{
+  font-family:iranyekan;
+  width: 500px;
+}
